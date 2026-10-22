@@ -1,2 +1,2 @@
-# fosfo
+# Fosfo
 Fosfo: Luci Degli Abissi
