@@ -35,6 +35,6 @@ Available for Android on Google Play (English, Italian, French, Spanish and Germ
 
 **Informativa sulla privacy / Privacy policy:** [sites.google.com/view/fosfo-privacy](https://sites.google.com/view/fosfo-privacy)
 
-**Contatti / Contact:** [sportelligionni@gmail.com](mailto:sportelligionni@gmail.com)
+**Contatti / Contact:** [sportelligionni.dev@gmail.com](mailto:sportelligionni.dev@gmail.com)
 
 © 2026 Gionni Sportelli
