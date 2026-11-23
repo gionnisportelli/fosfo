@@ -1,0 +1,83 @@
+FOSFO: LUCI DEGLI ABISSI - PRESS KIT
+====================================
+
+SCHEDA
+Titolo: Fosfo: Luci degli Abissi (inglese: Fosfo: Abyss Lights)
+Genere: puzzle match-3
+Piattaforma: Android (Google Play)
+Uscita: 18 novembre 2026
+Prezzo: gratis
+Lingue: italiano, inglese, francese, spagnolo, tedesco
+Sviluppatore: Gionni Sportelli, sviluppatore indipendente (Italia)
+Google Play: https://play.google.com/store/apps/details?id=com.gionnisportelli.fosfo
+Sito: https://gionnisportelli.github.io/fosfo/
+Trailer: https://www.youtube.com/watch?v=JS0RzNWodeQ
+Contatti: sportelligionni.dev@gmail.com
+
+IN UNA RIGA
+Accendi il buio degli abissi: un puzzle match-3 con creature luminose e un faro sommerso da riaccendere.
+
+TESTO BREVE
+Fosfo è un puzzle match-3 ambientato sul fondale più buio dell'oceano. Ogni combinazione di creature luminose accende le caselle buie: quando tutto il fondale brilla, il livello è vinto. Nel buio i colori sono nascosti, e bisogna leggere sagome e lucine per trovare la mossa giusta.
+
+TESTO LUNGO
+Scendi con Fosfo, un piccolo pesce lanterna, fino al fondale dell'oceano: laggiù il Faro Sommerso si è spento e solo la tua luce può riaccenderlo.
+
+La regola è semplice: unisci tre o più creature dello stesso colore e le caselle sotto di loro si accendono. La novità è il buio: nelle caselle spente i colori non si vedono. Si intuiscono dalle sagome nella penombra e dalle lucine che le creature accendono per un attimo, e ogni mossa diventa un piccolo enigma.
+
+Cinque zone, dai Fondali di Luce alle Correnti Profonde, portano ostacoli nuovi: ghiaccio nero, inchiostro dei polpi che si allarga, correnti che spostano le righe. Ogni zona finita riaccende una lente del faro, in una storia con Fosfo e Nautilo, il vecchio guardiano.
+
+Nel buio si nascondono anche creature vere degli abissi, come il sifonoforo o la rana pescatrice: liberandole si raccolgono nel Bestiario, ognuna con una curiosità scientifica. Ci sono poi una sfida del giorno uguale per tutti, il Reef da ricostruire con le stelle, obiettivi e classifiche di Google Play Games.
+
+Fosfo è fatto da una sola persona, in Italia: grafica, effetti sonori e brusio dell'oceano sono creati nel codice del gioco.
+
+CARATTERISTICHE
+- Un match-3 con una regola nuova: la luce è l'obiettivo, il buio nasconde i colori
+- Cinque zone con ostacoli diversi: ghiaccio nero, inchiostro dei polpi, correnti marine
+- Bestiario degli Abissi con curiosità sui veri animali delle profondità
+- Sfida del giorno uguale per tutti, con classifica
+- Si gioca anche senza internet; salvataggio sul cloud con Google Play Games
+- In 5 lingue; opzioni di accessibilità (lucine con la forma, effetti ridotti)
+
+
+====================================
+FOSFO: ABYSS LIGHTS - PRESS KIT
+====================================
+
+FACT SHEET
+Title: Fosfo: Abyss Lights (Italian: Fosfo: Luci degli Abissi)
+Genre: match-3 puzzle
+Platform: Android (Google Play)
+Release date: November 18, 2026
+Price: free
+Languages: English, Italian, French, Spanish, German
+Developer: Gionni Sportelli, independent developer (Italy)
+Google Play: https://play.google.com/store/apps/details?id=com.gionnisportelli.fosfo
+Website: https://gionnisportelli.github.io/fosfo/
+Trailer: https://www.youtube.com/watch?v=JS0RzNWodeQ
+Contact: sportelligionni.dev@gmail.com
+
+ONE LINER
+Light up the dark ocean floor in a match-3 puzzle with glowing sea creatures and a sunken lighthouse to relight.
+
+SHORT DESCRIPTION
+Fosfo is a match-3 puzzle set on the darkest ocean floor. Every match of glowing creatures lights up the dark tiles beneath them: when the whole seabed shines, you win the level. In the dark the colors are hidden, so you read shapes and fleeting lights to find the right move.
+
+LONG DESCRIPTION
+Dive with Fosfo, a little lanternfish, to the bottom of the ocean: the Sunken Lighthouse has gone dark, and only your light can bring it back.
+
+The rule is simple: match three or more creatures of the same color and the tiles beneath them light up. The twist is the dark: on unlit tiles the colors are hidden. You guess them from shapes in the twilight and from the lights the creatures flash for a moment, so every move becomes a small puzzle.
+
+Five zones, from the Shallows of Light to the Deep Currents, bring new obstacles: black ice, spreading octopus ink, currents that shift whole rows. Every zone you clear relights a lens of the lighthouse, in a story with Fosfo and Nautilo, the old lighthouse keeper.
+
+Real deep-sea creatures hide in the dark too, like the siphonophore or the anglerfish: free them to fill the Bestiary, each with a real scientific fact. There is also a daily challenge that is the same for everyone, a Reef to rebuild with stars, and Google Play Games achievements and leaderboards.
+
+Fosfo is made by one person in Italy: graphics, sound effects and the ocean ambience are all generated in the game's code.
+
+FEATURES
+- A match-3 with a new rule: light is the goal, and the dark hides the colors
+- Five zones with different obstacles: black ice, octopus ink, sea currents
+- Bestiary of the Abyss with facts about real deep-sea animals
+- A daily challenge that is the same for everyone, with a leaderboard
+- Plays offline; cloud saves with Google Play Games
+- 5 languages; accessibility options (shaped little lights, reduced effects)
